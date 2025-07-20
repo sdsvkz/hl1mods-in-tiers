@@ -324,24 +324,6 @@
         </a>
       </th>
       <td style="text-align: center">
-        8
-      </td>
-      <td style="text-align: center">
-        1 ~ 2h
-      </td>
-      <td>
-        一个潜行为主的Mod，有点创意，体验比较因人而异
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">
-        <a href="https://www.moddb.com/mods/the-unknown-menace-remod">
-          The Unknown Menace | Remod
-        </a>
-      </th>
-      <td style="text-align: center">
         7
       </td>
       <td style="text-align: center">
@@ -385,24 +367,6 @@
       </td>
       <td>
         纯搞的mod，虽然是很搞，但是有一说一，一堆新东西，其实还挺好玩的，也就喷一喷答辩一样的地图设计了
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">
-        <a href="https://www.moddb.com/mods/crack-life/downloads/crack-life-campaign-mode">
-          Crack-Life (Campaign Mode)
-        </a>
-      </th>
-      <td style="text-align: center">
-        8
-      </td>
-      <td style="text-align: center">
-        2 ~ 4h
-      </td>
-      <td>
-        纯搞的mod，但是有一说一，一堆新东西，玩着还行，喷一喷答辩一样的地图设计
       </td>
       <td>
       </td>
