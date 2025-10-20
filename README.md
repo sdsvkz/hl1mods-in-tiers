@@ -61,7 +61,7 @@
         </a>
       </th>
       <td style="text-align: center">
-        9.5
+        9
       </td>
       <td style="text-align: center">
         > 6h
@@ -108,6 +108,25 @@
         北极研究设施主题
       </td>
       <td></td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/poke646-anniversary-edition">
+          Poke646: Anniversary Edition
+        </a>
+      </th>
+      <td style="text-align: center">
+        10
+      </td>
+      <td style="text-align: center">
+        4 ~ 6h
+      </td>
+      <td>
+        必玩榜榜一大哥, 就算是06年的Mod, 也是关卡设计里最顶的一批, 有全新的武器, 新怪物几乎没有, 城市主题的代表作品
+      </td>
+      <td>
+        <a href="https://www.moddb.com/mods/poke646">Poke646</a> 和 <a href="https://www.moddb.com/mods/poke646-vendetta">Poke646: Vendetta</a> 的官方合并
+      </td>
     </tr>
     <tr>
       <th scope="row">
@@ -545,7 +564,7 @@
         </a>
       </th>
       <td style="text-align: center">
-        9
+        9.5
       </td>
       <td style="text-align: center">
         取决于过关速度，通常都要大于 4h
@@ -685,10 +704,29 @@
         4 ~ 6h
       </td>
       <td>
-        它们饿了，非常经典的老牌mod，虽然经常被标为恐怖但根本不恐怖，或者微恐怖带点猎奇吧，打僵尸的，设计非常扎实
+        它们饿了, 非常经典的老牌mod, 虽然经常被标为恐怖但根本不恐怖, 或者微恐怖带点猎奇吧, 打僵尸的, 设计非常扎实
       </td>
       <td>
-        很老的mod，武器和敌人很多都只是换了个模型，他主要有意思的点在于题材和扎实的地图设计
+        很老的mod, 武器和敌人很多都只是换了个模型, 他主要有意思的点在于题材和扎实的地图设计, 但是一直打那种无脑冲过来打你的近战怪还是会无聊的
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/afraid-of-monsters-dc">
+          Afraid of Monsters DC
+        </a>
+      </th>
+      <td style="text-align: center">
+        9
+      </td>
+      <td style="text-align: center">
+        5 ~ 8h
+      </td>
+      <td>
+        AOMDC是一个非常老的半1恐怖Mod, 这是真恐怖, 包含Jumpscare, 黑不拉几的场景和恐怖的怪物, 你可以当成一个独立游戏玩
+      </td>
+      <td>
+        说实话, AOMDC的地图设计不是很好, 按钮和钥匙都放在十万八千里远, 然后
       </td>
     </tr>
     <tr>
@@ -707,7 +745,292 @@
         从半1结尾开始延续故事线，有新武器，但是有一说一，新武器很一般，地图设计不太行
       </td>
       <td>
-        这其实是两个Mod，Vengeance和续作Rebellion，高清化的mod优化了一些细节，然后把两作合并在一起了，这mod我印象最深刻的就是狗屎一样的地图设计，所以不要期待太多
+        这其实是两个Mod，Vengeance和续作Rebellion，Remod优化了一些细节，然后把两作合并在一起了，这mod我印象最深刻的就是狗屎一样的地图设计，所以不要期待太多
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/point-of-view">
+          Point of View
+        </a>
+      </th>
+      <td style="text-align: center">
+        8.5
+      </td>
+      <td style="text-align: center">
+        2 ~ 3h
+      </td>
+      <td>
+        很独特的Mod, 扮演一个弗地冈人, 所以是弗地冈的攻击方式, 当然还有别的武器可以用, 非常有新意的mod
+      </td>
+      <td>
+        各方面来说都挺不错的, 可能也就连续电两个小时多的人会有一点点无聊了
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/hl-residual-point">
+          Residual Point
+        </a>
+      </th>
+      <td style="text-align: center">
+        7
+      </td>
+      <td style="text-align: center">
+        5 ~ 6h
+      </td>
+      <td>
+        基本上, 这个Mod想做一个翻版的HL战役, 当然, 场景什么的都是全新的, 作者大概是做了一个自己心目中的半1战役, 敌人稍微有一点点变化, 以及训练关卡是个迷你战役
+      </td>
+      <td>
+        这个Mod是7分, 首先, 这个Mod感觉长过头了, 关卡质量参差不齐, 设计甚至有点重复, 其次, 这玩意有点难了, 补给给得不太合理, 不建议玩困难, 哦对, 以及这作者是个傻逼
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/hl-residual-life">
+          Residual Life
+        </a>
+      </th>
+      <td style="text-align: center">
+        8
+      </td>
+      <td style="text-align: center">
+        2 ~ 4h
+      </td>
+      <td>
+        和Residual Point一样, 一个半1战役风格的Mod, 有一些变种怪物, 有很多路线可以走, 还有秘密, 要达到足够条件才能解锁不同的结局
+      </td>
+      <td>
+        这作者是个傻逼, 但是这Mod整体来说还是不错的, 他的秘密不是很好找, 可能得打好几遍才能找到真结局, 但部分关卡欠缺打磨
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/operations-1942">
+          Operation 1942
+        </a>
+      </th>
+      <td style="text-align: center">
+        6
+      </td>
+      <td style="text-align: center">
+        40m ~ 2h
+      </td>
+      <td>
+        二战题材的Mod, 一共4个任务, 每个任务10~20分钟, 有自定义武器, 似乎是从DOD弄来的, 敌人全是德军 (HECU换模), 真实伤害 (吃两发枪子就死, 所有人都是这样)
+      </td>
+      <td>
+        难度很高, 我建议直接简单开, 游戏体验会好一点, 按我个人的体验, 潜行不好玩, 打枪露头就被秒也不好玩, 而且关卡设计也就那样吧, 毕竟就打打枪战, 没什么可设计的, 就是典型的你看起来挺有意思, 但事实上他实现得很垃圾
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/azure-sheep">
+          Azure Sheep
+        </a>
+      </th>
+      <td style="text-align: center">
+        7.5
+      </td>
+      <td style="text-align: center">
+        3 ~ 5h
+      </td>
+      <td>
+        蔚蓝色绵羊, 扮演一个保安, 有点类似于蓝色行动, 但是这个有一些新武器和新敌人, 后半段要带着女友一块跑路, 流程有点长
+      </td>
+      <td>
+        带个NPC是这个Mod最大的败笔, 拖完了兄弟, 路点经常有问题, NPC不走了就只能推过去, 而且这NPC老是自己跑过去送, 除此之外, 他的地图设计很一般
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/experiment">
+          eXperiment
+        </a>
+      </th>
+      <td style="text-align: center">
+        5
+      </td>
+      <td style="text-align: center">
+        3h+
+      </td>
+      <td>
+        一个生存恐怖mod, 有新武器, 新怪物, 地图风格跟HL非常不一样
+      </td>
+      <td>
+        垃圾完了, 只有前半个小时有点游戏体验, 后面完全就是重复一个套路, 地图设计也是纯迷宫, 这些缺点可以盖过一切优点, 以及几乎没有任何剧情
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/sweet-half-life">
+          Sweet Half-Life
+        </a>
+      </th>
+      <td style="text-align: center">
+        8.5
+      </td>
+      <td style="text-align: center">
+        3 ~ 4h
+      </td>
+      <td>
+        甜蜜战争, 原版风格的Mod, 参杂了一些动漫私货, 有新武器, 新敌人, 后期有双路线可选, 非常经典的Mod
+      </td>
+      <td>
+        地图设计稍微有点配不上, 部分解谜缺乏引导, 其他的没有什么大问题
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/half-life-operation-rosenberg">
+          HALF-LIFE: Operation Rosenberg
+        </a>
+      </th>
+      <td style="text-align: center">
+        6
+      </td>
+      <td style="text-align: center">
+        4 ~ 6h
+      </td>
+      <td>
+        一个针锋相对风格的Mod, 除了后面有双路线以外没有什么特别的, 可能是特别长
+      </td>
+      <td>
+        前期的地图设计可能还行, 但是也有很多问题, 越后面地图设计越烂, 也没啥特别的, 就是容易越玩越无聊
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/half-life-escape-from-area-99">
+          HALF LIFE: Escape from Area 99
+        </a>
+      </th>
+      <td style="text-align: center">
+        7
+      </td>
+      <td style="text-align: center">
+        3 ~ 4h
+      </td>
+      <td>
+        Operation Rosenberg 的续作, 扮演巴尼, 和罗森伯格一起逃出去, 纯原版风格的战役
+      </td>
+      <td>
+        这一代的地图设计比上一作好一点点, 勉强能玩
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/half-life-operation-rift">
+          HALF-LIFE: Operation Rift
+        </a>
+      </th>
+      <td style="text-align: center">
+        7
+      </td>
+      <td style="text-align: center">
+        5 ~ 6h
+      </td>
+      <td>
+        针锋相对风格的Mod, 有一些不常见的地图设计, 有点长
+      </td>
+      <td>
+        地图质量参差不齐, 往有一些重复了, 后期可能会有点无聊, 最后有点坐牢
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/half-life-dark-future">
+          HALF-LIFE: Dark Future
+        </a>
+      </th>
+      <td style="text-align: center">
+        6
+      </td>
+      <td style="text-align: center">
+        2 ~ 3h
+      </td>
+      <td>
+        一个仿半2主题的Mod, 用的针锋相对的武器
+      </td>
+      <td>
+        前期可以给到个7分左右, 地图设计不咋地但是还行吧, 后期真的又臭又长了, 半2的怪物丰富度很低, 这Mod也有这个问题, 就算关卡设计及格, 中期一路平推僵尸也太无聊了点
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/todesangst">
+          Todesangst
+        </a>
+      </th>
+      <td style="text-align: center">
+        7
+      </td>
+      <td style="text-align: center">
+        30m ~ 1.5h
+      </td>
+      <td>
+        普通的半1风格Mod, 虽然游戏性上没什么特色, 但是剧情很整蛊
+      </td>
+      <td>
+        中规中矩的短Mod, 地图设计不太行, 但是整体来说就是一般, 不好不差
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/todesangst-2der-echte-feind">
+          Todesangst 2: Der Echte Feind
+        </a>
+      </th>
+      <td style="text-align: center">
+        8.5
+      </td>
+      <td style="text-align: center">
+        2 ~ 3h
+      </td>
+      <td>
+        很有特色的Mod, 风格类似半1但是自成一派, 有新武器, 新怪物和一点小机制, 还有一点剧情和过场动画, 挺有创意的, 地图设计也是风格迥异
+      </td>
+      <td>
+        很有想法, 推荐指数很高, 但是关卡设计是硬伤, 稍微有点配不上创意, 尽管如此, 他的关卡设计并不差
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://store.steampowered.com/app/1707900/Delta_Particles/">
+          Delta Particles
+        </a>
+      </th>
+      <td style="text-align: center">
+        8.5
+      </td>
+      <td style="text-align: center">
+        4 ~ 5h
+      </td>
+      <td>
+        高精细度美术风格的Mod, 整体设计类似半1的战役, 很多新武器, 少量新怪物, 关卡设计不错
+      </td>
+      <td>
+        后期有点冗长, 关卡设计也没有那么好, XEN部分有点难评
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <a href="https://www.moddb.com/mods/half-life-echoes">
+          Half-Life : Echoes
+        </a>
+      </th>
+      <td style="text-align: center">
+        8.5
+      </td>
+      <td style="text-align: center">
+        4 ~ 5h
+      </td>
+      <td>
+        高精细度美术风格的Mod, 关卡设计水平较高, 有一定的剧情, 几乎是经典设计的天花板
+      </td>
+      <td>
+        没有什么新敌人和新武器, 所以如果你玩的Mod比较多的话, 就可能显得有点平淡了, 但这Mod很多设计都没得说, 非常管用的设计
       </td>
     </tr>
   </tbody>
